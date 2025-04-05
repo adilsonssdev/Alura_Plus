@@ -1,4 +1,9 @@
 
+<p align="center">
+  <img src="img/Projeto.png" alt="Descrição da imagem" width="2600" height="500"/>
+</p>
+
+
 # Alura Plus - Landing Page
 
 Esta é a landing page do Alura Plus, uma plataforma de cursos online que oferece planos combinados de Alura+ e Alura Língua. A página apresenta informações sobre os planos disponíveis, valores e como assiná-los.
